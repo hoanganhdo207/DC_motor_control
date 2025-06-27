@@ -15,7 +15,7 @@ If you buy a brand-new ATmega32, it's often necessary to burn the bootloader. Th
 
 To provide real-time feedback during operation, we integrated a 16x2 LCD display using the I2C interface. The display shows important parameters such as current speed, position, and PID values. This helps in monitoring the system’s behavior and adjusting the control loop more effectively during testing and tuning.
 
-![thumbnail]() 
+![thumbnail](https://raw.githubusercontent.com/hoanganhdo207/DC_motor_control/main/images/lcd.jpg) 
 
 ## 📸 Previews
 [Video demo](https://drive.google.com/file/d/16V3UMsNc82UP_47mTUNTjgNMJ04aVsQA/view?usp=sharing)
