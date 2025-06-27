@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=HD1-1
+Removed Pin From Net: NetName=+5 Pin=HD1-2
+Removed Member From Class: ClassName=Sheet1 Member=HD1
+Added Component: Designator=HD?(HED4)
+Added Pin To Net: NetName=GND Pin=HD?-1
+Added Pin To Net: NetName=+5 Pin=HD?-2
+Added Pin To Net: NetName=NetHD?_3 Pin=HD?-3
+Added Pin To Net: NetName=NetHD?_3 Pin=IC1-27
+Added Net: Name=NetHD?_3
+Added Pin To Net: NetName=NetHD?_4 Pin=HD?-4
+Added Pin To Net: NetName=NetHD?_4 Pin=IC1-28
+Added Net: Name=NetHD?_4
+Added Member To Class: ClassName=Sheet1 Member=Component HD? Header 4

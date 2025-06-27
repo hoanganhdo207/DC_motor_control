@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetIC?_9 New Net Name=NetIC2_9
+Change Net Name : Old Net Name=NetIC?_16 New Net Name=NetIC2_16
+Change Net Name : Old Net Name=NetIC?_17 New Net Name=NetIC2_17
+Change Net Name : Old Net Name=NetIC?_19 New Net Name=NetIC2_19
+Change Net Name : Old Net Name=NetIC?_22 New Net Name=NetIC2_22
+Change Net Name : Old Net Name=NetIC?_23 New Net Name=NetIC2_23
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 LM7805
+Added Member To Class: ClassName=Sheet1 Member=Component R3 220

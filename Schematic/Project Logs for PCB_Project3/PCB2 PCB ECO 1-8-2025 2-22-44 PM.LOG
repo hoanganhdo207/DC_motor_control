@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetIC2_26 Pin=P?-2
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Pin To Net: NetName=NetIC2_25 Pin=P2-2
+Added Pin To Net: NetName=+5 Pin=P3-1
+Added Pin To Net: NetName=NetIC2_26 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 3

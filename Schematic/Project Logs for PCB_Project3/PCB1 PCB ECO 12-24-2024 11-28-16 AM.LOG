@@ -1,0 +1,68 @@
+Added Component: Designator=C?(CN1)
+Added Component: Designator=C?(CN1)
+Added Component: Designator=C?(CN1)
+Added Component: Designator=HD?(HED4T)
+Added Component: Designator=P?(HDR1X6)
+Added Component: Designator=Q?(QTO-220)
+Added Component: Designator=R?(R1/4W)
+Added Component: Designator=R?(R1/4W)
+Added Component: Designator=SW?(SW2)
+Added Component: Designator=X?(XT2)
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=HD?-2
+Added Pin To Net: NetName=+5 Pin=IC?-7
+Added Pin To Net: NetName=+5 Pin=IC?-20
+Added Pin To Net: NetName=+5 Pin=P?-2
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=P?-6
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=HD?-1
+Added Pin To Net: NetName=GND Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=IC?-22
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-10
+Added Pin To Net: NetName=NetC?_2 Pin=X?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetHD?_3 Pin=HD?-3
+Added Pin To Net: NetName=NetHD?_3 Pin=IC?-27
+Added Net: Name=NetHD?_3
+Added Pin To Net: NetName=NetHD?_4 Pin=HD?-4
+Added Pin To Net: NetName=NetHD?_4 Pin=IC?-28
+Added Net: Name=NetHD?_4
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=SW?-1
+Added Net: Name=NetIC?_1
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=P?-4
+Added Net: Name=NetIC?_4
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=P?-3
+Added Net: Name=NetIC?_5
+Added Pin To Net: NetName=NetIC?_15 Pin=IC?-15
+Added Pin To Net: NetName=NetIC?_15 Pin=R?-2
+Added Net: Name=NetIC?_15
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=Q?-2
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=Sheet1 Member=Component C? 100pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component HD? LCD
+Added Member To Class: ClassName=Sheet1 Member=Component P? DC motor
+Added Member To Class: ClassName=Sheet1 Member=Component Q? IRF840
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 220
+Added Member To Class: ClassName=Sheet1 Member=Component SW? SW
+Added Member To Class: ClassName=Sheet1 Member=Component X? 16Mhz

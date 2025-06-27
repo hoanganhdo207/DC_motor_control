@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetIC2_22 Pin=P1-3
+Removed Pin From Net: NetName=NetIC2_23 Pin=P1-4
+Added Component: Designator=DC Motor1(HDR1X6)
+Added Pin To Net: NetName=NetD2_1 Pin=DC Motor1-1
+Added Pin To Net: NetName=+5 Pin=DC Motor1-2
+Added Pin To Net: NetName=NetDC Motor1_3 Pin=DC Motor1-3
+Added Pin To Net: NetName=NetDC Motor1_4 Pin=DC Motor1-4
+Added Pin To Net: NetName=GND Pin=DC Motor1-5
+Added Pin To Net: NetName=NetD1_2 Pin=DC Motor1-6
+Added Pin To Net: NetName=NetIC2_23 Pin=P1-3
+Added Pin To Net: NetName=NetIC2_22 Pin=P1-4
+Added Member To Class: ClassName=Sheet1 Member=Component DC Motor1 DC motor

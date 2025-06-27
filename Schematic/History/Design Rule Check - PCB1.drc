@@ -1,0 +1,1049 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\LENOVO\OneDrive\Desktop\ATmega8\History\PCB1.PcbDoc
+Date     : 12/24/2024
+Time     : 11:28:54 AM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Room Sheet1 (Bounding Region = (7045mil, 960mil, 7465mil, 2495mil) (InComponentClass('Sheet1'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50103.732mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50103.732mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50104.811mil,49999.499mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50104.811mil,49999.499mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+Rule Violations :74
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50103.732mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50103.732mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50103.732mil,49999.5mil)  Top Overlay
+   Violation between Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50103.732mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50104.811mil,49999.499mil)  Top Overlay
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50104.811mil,49999.499mil)  Top Overlay
+   Violation between Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50104.811mil,49999.499mil)  Top Overlay
+   Violation between Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50104.811mil,49999.499mil)  Top Overlay
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50098.672mil,49999.5mil)  Top Overlay
+   Violation between Pad X?-1(49899.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49927.471mil,49951.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (49999.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Arc (50100.5mil,49999.5mil)  Top Overlay
+   Violation between Track (49894.5mil,49984.5mil)(49894.5mil,50014.5mil)  Top Overlay and 
+                     Pad X?-1(49899.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49947.5mil,49998.5mil)(49978.5mil,49998.5mil)  Top Overlay and 
+                     Pad X?-1(49899.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49899.5mil,49599.5mil)(49899.5mil,50099.5mil)  Top Overlay and 
+                     Pad X?-1(49899.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(49949.5mil,50049.5mil)  Top Overlay and 
+                     Pad X?-1(49899.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49899.5mil,49924.5mil)(49899.5mil,50129.5mil)  Top Overlay and 
+                     Pad X?-1(49899.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49998.5mil)(50049.5mil,49998.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50082.5mil,50037.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50082.5mil,50037.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(50549.5mil,49949.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,50049.5mil)(50549.5mil,50049.5mil)  Top Overlay and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49947.5mil,49998.5mil)(49978.5mil,49998.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49978.5mil,49963.5mil)(49978.5mil,50037.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49998.5mil)(50049.5mil,49998.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(49949.5mil,50049.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49962.5mil)(50019.5mil,50037.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49974.5mil,49874.5mil)(49974.5mil,50124.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(50549.5mil,49949.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,50049.5mil)(50549.5mil,50049.5mil)  Top Overlay and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50224.5mil,49874.5mil)(50224.5mil,50124.5mil)  Top Overlay and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(50549.5mil,49949.5mil)  Top Overlay and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,50049.5mil)(50549.5mil,50049.5mil)  Top Overlay and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49947.5mil,49998.5mil)(49978.5mil,49998.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49978.5mil,49963.5mil)(49978.5mil,50037.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49998.5mil)(50049.5mil,49998.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49962.5mil)(50019.5mil,50037.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49974.5mil,49874.5mil)(49974.5mil,50124.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50267.5mil,49999.5mil)(50301.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50267.5mil,49999.5mil)(50301.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49947.5mil,49998.5mil)(49978.5mil,49998.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49978.5mil,49963.5mil)(49978.5mil,50037.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49998.5mil)(50049.5mil,49998.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49962.5mil)(50019.5mil,50037.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49974.5mil,49874.5mil)(49974.5mil,50124.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50267.5mil,49999.5mil)(50301.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50267.5mil,49999.5mil)(50301.5mil,49999.5mil)  Top Overlay and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49947.5mil,49998.5mil)(49978.5mil,49998.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49978.5mil,49963.5mil)(49978.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49998.5mil)(50049.5mil,49998.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(49949.5mil,50049.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49962.5mil)(50019.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49974.5mil,49874.5mil)(49974.5mil,50124.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(50549.5mil,49949.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,50049.5mil)(50549.5mil,50049.5mil)  Top Overlay and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49998.5mil)(50049.5mil,49998.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50047.5mil,49999.5mil)(50082.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50082.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50082.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(50549.5mil,49949.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,50049.5mil)(50549.5mil,50049.5mil)  Top Overlay and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50224.5mil,49874.5mil)(50224.5mil,50124.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,49961.5mil)(50267.5mil,49961.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50082.5mil,50037.5mil)(50267.5mil,50037.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,49949.5mil)(50549.5mil,49949.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49949.5mil,50049.5mil)(50549.5mil,50049.5mil)  Top Overlay and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49947.5mil,49998.5mil)(49978.5mil,49998.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49978.5mil,49963.5mil)(49978.5mil,50037.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49998.5mil)(50049.5mil,49998.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (50019.5mil,49962.5mil)(50019.5mil,50037.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49974.5mil,49874.5mil)(49974.5mil,50124.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,49959.5mil)(50099.5mil,49959.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Track (49999.5mil,50039.5mil)(50099.5mil,50039.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "C?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "HD?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "P?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "Q?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "R?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "SW?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Text "X?" (49999.5mil,49999.5mil)  Top Overlay and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+Rule Violations :275
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-3(50399.562mil,49999.562mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-3(50399.562mil,49999.562mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+Rule Violations :47
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-1(49899.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-5(50399.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-3(50399.562mil,49999.562mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-4(50299.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-5(50399.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-3(50399.562mil,49999.562mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-4(50299.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer
+Rule Violations :54
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad X?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad SW?-2(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-5(50399.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-3(50399.562mil,49999.562mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-4(50299.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-5(50399.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-3(50399.562mil,49999.562mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-4(50299.5mil,49999.5mil)  Multi-Layer and 
+                     Pad R?-2(50349.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad P?-3(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-2(50199.5mil,49999.5mil)  Multi-Layer and 
+                     Pad Q?-3(50199.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad HD?-1(49999.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-1(49999.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer
+   Violation between Pad C?-2(50099.5mil,49999.5mil)  Multi-Layer and 
+                     Pad P?-2(50099.5mil,49999.5mil)  Multi-Layer
+Rule Violations :50
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:00

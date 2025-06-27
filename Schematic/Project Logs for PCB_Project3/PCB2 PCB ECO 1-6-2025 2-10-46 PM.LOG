@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+12 Pin=IC?-1
+Removed Pin From Net: NetName=GND Pin=IC?-2
+Removed Pin From Net: NetName=+5 Pin=IC?-3
+Added Pin To Net: NetName=+12 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=+5 Pin=IC?-3
+Added Member To Class: ClassName=Sheet1 Member=Component IC? LM7805

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=R3-2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=DC Motor NewDesignator=DC Motor1
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Added Component: Designator=D2(D5A)
+Added Component: Designator=R3(R1/4W)
+Added Pin To Net: NetName=+12 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-2
+Added Pin To Net: NetName=NetIC2_19 Pin=R4-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetDC Motor_3 New Net Name=NetDC Motor1_3
+Change Net Name : Old Net Name=NetDC Motor_4 New Net Name=NetDC Motor1_4
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=DC Motor1-6
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=DC Motor1-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N5408
+Added Member To Class: ClassName=Sheet1 Member=Component R4 220

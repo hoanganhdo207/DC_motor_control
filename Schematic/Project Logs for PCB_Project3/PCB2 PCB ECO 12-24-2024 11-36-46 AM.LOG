@@ -1,0 +1,5 @@
+Added Component: Designator=JP1(HED2)
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 2_1

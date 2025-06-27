@@ -1,0 +1,14 @@
+Added Component: Designator=IC?(QTO-220)
+Added Component: Designator=LED?(LED-3)
+Added Component: Designator=R?(R1/4W)
+Added Pin To Net: NetName=+12 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=+5 Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=LED?-2
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Net: Name=NetLED?_1
+Added Member To Class: ClassName=Sheet1 Member=Component IC? LM7805
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1k
