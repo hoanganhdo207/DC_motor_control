@@ -18,7 +18,7 @@ To provide real-time feedback during operation, we integrated a 16x2 LCD display
 ![thumbnail]() 
 
 ## 📸 Previews
-[Video demo](https://drive.google.com/file/d/13h31Oaqvu5-RNBlb9Kudcmn5dsyJSfwP/view?usp=sharing) 
+[Video demo](https://drive.google.com/file/d/16V3UMsNc82UP_47mTUNTjgNMJ04aVsQA/view?usp=sharing)
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).  
