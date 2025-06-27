@@ -5,14 +5,15 @@ This project demonstrates how to control a DC motor's speed and position using t
   - Real-time speed control using PID
   - Position control through incremental encoder feedback
   - Configurable PID parameters for tuning and system response optimization
-## 🧠 System design
-We use ATmega32 microcontroller for this project - an affordable 8-bit MCU that offers decent processing speed , making it well-suited for simple embedded systems. While it doesn't have the high performance or memory of more advanced boards like ESP32, STM32, ... , it is perfectly adequate for projects that don't require intensive computation or large storage. Its reliability and ease of use make it a great fit for real-time control tasks like PID motor control.
+# 🧠 System design
+We use ATmega32 microcontroller for this project - an affordable 8-bit MCU that offers decent processing speed , making it well-suited for simple embedded systems. While it doesn't have the high performance or memory of more advanced boards like ESP32, STM32, ... , it is perfectly adequate for projects that don't require intensive computation or large storage. Its reliability and ease of use make it a great fit for real-time control tasks like PID motor control.  
 
-![thumbnail]() 
+![thumbnail](https://raw.githubusercontent.com/hoanganhdo207/DC_motor_control/main/images/vi-dieu-khien-atmega32-1-599x420.jpg) 
 
-### 🔥 Burn bootloader 
+## 🔥 Burn bootloader 
 If you buy a brand-new ATmega32, it's often necessary to burn the bootloader. The bootloader is a small piece of code that allows the microcontroller to receive and run programs from the computer via a serial interface. Without it, direct programming via ISP (In-System Programming) is required for every update. Burning the bootloader sets up the microcontroller’s fuse bits and prepares it for easier future uploads.
 
+## 📟 LCD Display Integration
 To provide real-time feedback during operation, we integrated a 16x2 LCD display using the I2C interface. The display shows important parameters such as current speed, position, and PID values. This helps in monitoring the system’s behavior and adjusting the control loop more effectively during testing and tuning.
 
 ![thumbnail](https://raw.githubusercontent.com/hoanganhdo207/DC_motor_control/main/images/lcd.jpg) 
